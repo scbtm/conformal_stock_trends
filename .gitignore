@@ -1,0 +1,5 @@
+data/
+stock_trends/
+.python-version
+.DS_Store
+__pycache__/
